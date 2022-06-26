@@ -1,0 +1,1 @@
+document.write('<footer class="w3-container w3-black w3-padding-32 w3-margin-top"><center>© Science with Yves 2022</center></footer>')
